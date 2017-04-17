@@ -2,37 +2,43 @@
 準備CPE大學程式能力檢定考試，CPE的考題皆出自於UVa。
 
 
+ ----------
+:page_facing_up:好題目精選（從書上找來的練習題）
+------------
+- word_Transformation
+ >**題目敘述**：
+ >**題目出處**：《C++》中文版 pg.    
+ >**程式碼**：[word_Transformation.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/word_Transformation.cpp)   
+ 
 ----------
-##UVa題目出處
+:page_facing_up:UVa題目出處
+------------
 
  - 865 - Substitution Cypher
  >**題目簡介**：根據Input字元代換表，把文章中的原始字母代換成題目指示的特定字元，並且輸出經過代換之後的文章。  
  >**完整題目**： [UVa-865](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=806)  
  >**程式碼**：[uva_865.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_865.cpp)   
  
- - 948
- >**題目簡介**：   
- >**完整題目**：[UVa-865]()   
- >**程式碼**：   
+ - 948 - Fibonaccimal Base
+ >**題目簡介**：根據Input整數i，求出費氏數列中第i個元素，輸出其元素的數值。     
+ >**完整題目**：[UVa-948](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=889)    
+ >**程式碼**：[uva_948.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_948.cpp)   
  
- - 10415
- >**題目簡介**：
- >**完整題目**：[UVa-865]()
- >**程式碼**：
+ - 10415 - Eb Alto Saxophone Player
+ >**題目簡介**：根據英文字母樂譜與薩克斯風指法表格，統計出整首歌吹奏結束後，薩克斯風上面的14個按鍵被按壓的累積次數（按壓：按下再放開算一次）。       
+ >**完整題目**：[UVa-10415](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1356)    
+ >**程式碼**：[uva_10415.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_10415.cpp)   
  
  - 11192
- >**題目簡介**：
- >**完整題目**：[UVa-865]()
- >**程式碼**：
+ >**題目簡介**：   
+ >**完整題目**：[UVa-11192]()    
+ >**程式碼**：[uva_11192.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11192.cpp)   
  
  - 11344
- >**題目簡介**：
- >**完整題目**：[UVa-865]()
- >**程式碼**：
+ >**題目簡介**：   
+ >**完整題目**：[UVa-11344]()    
+ >**程式碼**：[uva_11344.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11344.cpp)   
  
- - word_Transformation
- >**完整題目**：
- >**程式碼**：
  
 
 ----------
