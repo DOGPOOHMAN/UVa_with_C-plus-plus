@@ -5,11 +5,11 @@
  ----------
 :page_facing_up:好題目精選（從書上找來的練習題）
 ------------
-- :+1:word_Transformation
+- :+1:word_Transformation (10.3.9一個用於單字轉換的map)
  >**題目簡介**：在輸入檔之中，第一行裡面有一個整數G，它代表著總共有G種單字轉換規則(1 < G < 20)，在輸入檔之中，從第2行到第G+1行，為所有的單字轉換規則，每一行的單字轉的換規則，包含兩個單字在內，第一個的單字是轉換前的樣子，第二個單字是轉換後的樣子。緊接著單字轉換規則之後的那一行，包含一個整數N(1 < N < 5)，代表接下來有N行需 要被轉換的文字。    
  >        
  >**完整題目**：[view PDF](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/word_Transformation%20%E5%96%AE%E5%AD%97%E8%BD%89%E6%8F%9B--%E9%A1%8C%E7%9B%AE%E8%A7%A3%E9%87%8B.pdf)       
- >**題目出處**：Stanley B. Lippman, Josée Lajoie, Barbara E. Moo《C++ Primer 4/e中文版》 pg.           
+ >**題目出處**：Stanley B. Lippman, Josée Lajoie, Barbara E. Moo《C++ Primer 4/e中文版》 pg.369      
  >**程式碼**：[word_Transformation.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/word_Transformation.cpp)   
  
 ----------
