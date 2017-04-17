@@ -5,9 +5,11 @@
  ----------
 :page_facing_up:好題目精選（從書上找來的練習題）
 ------------
-- word_Transformation
- >**題目敘述**：
- >**題目出處**：《C++》中文版 pg.    
+- :+1:word_Transformation
+ >**題目簡介**：在輸入檔之中，第一行裡面有一個整數G，它代表著總共有G種單字轉換規則(1 < G < 20)，在輸入檔之中，從第2行到第G+1行，為所有的單字轉換規則，每一行的單字轉的換規則，包含兩個單字在內，第一個的單字是轉換前的樣子，第二個單字是轉換後的樣子。緊接著單字轉換規則之後的那一行，包含一個整數N(1 < N < 5)，代表接下來有N行需 要被轉換的文字。    
+ >        
+ >**完整題目**：[view PDF](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/word_Transformation%20%E5%96%AE%E5%AD%97%E8%BD%89%E6%8F%9B--%E9%A1%8C%E7%9B%AE%E8%A7%A3%E9%87%8B.pdf)       
+ >**題目出處**：Stanley B. Lippman, Josée Lajoie, Barbara E. Moo《C++ Primer 4/e中文版》 pg.           
  >**程式碼**：[word_Transformation.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/word_Transformation.cpp)   
  
 ----------
@@ -24,13 +26,13 @@
  >**完整題目**：[UVa-948](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=889)    
  >**程式碼**：[uva_948.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_948.cpp)   
  
- - 10415 - Eb Alto Saxophone Player
+ - :+1:10415 - Eb Alto Saxophone Player
  >**題目簡介**：根據英文字母樂譜與薩克斯風指法表格，統計出整首歌吹奏結束後，薩克斯風上面的14個按鍵被按壓的累積次數（按壓：按下再放開算一次）。
  >
  >**完整題目**：[UVa-10415](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1356)    
  >**程式碼**：[uva_10415.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_10415.cpp)   
  
- - 11192 - Group Reverse   
+ - :+1:11192 - Group Reverse   
  >**題目簡介**：根據Input整數n，將字串中的文字依順序分為數組（n個字為一組），分組後將每一組的文字反轉，並且依照原順序將其輸出。  
  >       
  >**完整題目**：[UVa-11192](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2133)    
