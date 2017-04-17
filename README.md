@@ -25,19 +25,21 @@
  >**程式碼**：[uva_948.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_948.cpp)   
  
  - 10415 - Eb Alto Saxophone Player
- >**題目簡介**：根據英文字母樂譜與薩克斯風指法表格，統計出整首歌吹奏結束後，薩克斯風上面的14個按鍵被按壓的累積次數（按壓：按下再放開算一次）。       
+ >**題目簡介**：根據英文字母樂譜與薩克斯風指法表格，統計出整首歌吹奏結束後，薩克斯風上面的14個按鍵被按壓的累積次數（按壓：按下再放開算一次）。
+ >
  >**完整題目**：[UVa-10415](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1356)    
  >**程式碼**：[uva_10415.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_10415.cpp)   
  
- - 11192
- >**題目簡介**：   
- >**完整題目**：[UVa-11192]()    
- >**程式碼**：[uva_11192.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11192.cpp)   
+ - 11192 - Group Reverse   
+ >**題目簡介**：根據Input整數n，將字串中的文字依順序分為數組（n個字為一組），分組後將每一組的文字反轉，並且依照原順序將其輸出。  
+ >       
+ >**完整題目**：[UVa-11192](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2133)    
+ >**程式碼**：解法1.使用Iterator: [uva_11192.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11192.cpp)   解法2.使用reverse_copy(): [uva_11192_2.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11192_2.cpp)       
  
- - 11344
- >**題目簡介**：   
- >**完整題目**：[UVa-11344]()    
- >**程式碼**：[uva_11344.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11344.cpp)   
+ - 11344 - The Huge One
+ >**題目簡介**：檢查Input set之中的所有元素是否能被某數值整除。       
+ >**完整題目**：[UVa-11344](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2319)       
+ >**程式碼**：[uva_11344.cpp](https://github.com/DOGPOOHMAN/UVa_with_C-plus-plus/blob/master/uva_11344.cpp)        
  
  
 
